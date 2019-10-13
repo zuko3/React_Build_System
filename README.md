@@ -1,5 +1,5 @@
 # React_Build_System
-This Project contains the comaplte configuration for React Build.<br/>
+This Project contains the complete configuration for React Build.<br/>
 1. Compiling .scss file to .css with watch mode.<br/>
 2. Coverage report<br/>
 3. Test cases.<br/>
