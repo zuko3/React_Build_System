@@ -21,3 +21,8 @@ Use below commands to execute tasks.<br/><br/>
   "test:coverage": "jest --coverage --config jest.config.js",<br/>
   "test:watchAll": "jest --watchAll",<br/>
   "test:update": "jest --updateSnapshot"<br/>
+
+2. REACT_WEBPACK_COMPLETE_SETUP_BASICS<br/>
+Use below commands to execute tasks.<br/><br/>
+ "build": "npx webpack --env.NODE_ENV=production",<br/>
+ "server": "webpack-dev-server --env.NODE_ENV=development"
