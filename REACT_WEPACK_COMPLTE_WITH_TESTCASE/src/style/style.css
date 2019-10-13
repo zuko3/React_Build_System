@@ -1,0 +1,8 @@
+body {
+  text-align: center;
+  font-family: 'Verdana';
+  background-color: chocolate; }
+  body .row {
+    margin-top: 10%; }
+  body .row div {
+    margin-top: 2.5%; }

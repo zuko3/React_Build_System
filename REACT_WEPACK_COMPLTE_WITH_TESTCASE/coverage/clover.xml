@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1570981630673" clover="3.2.0">
+  <project timestamp="1570981630673" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5" elements="11" coveredelements="11" complexity="0" loc="6" ncloc="6" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="test-cmp.js" path="D:\BUILD_SETUP_REACT\REACT_WEPACK_COMPLTE_WITH_TESTCASE\src\test-cmp.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="utils.js" path="D:\BUILD_SETUP_REACT\REACT_WEPACK_COMPLTE_WITH_TESTCASE\src\utils.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.customtest">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="myutil.js" path="D:\BUILD_SETUP_REACT\REACT_WEPACK_COMPLTE_WITH_TESTCASE\src\customtest\myutil.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
